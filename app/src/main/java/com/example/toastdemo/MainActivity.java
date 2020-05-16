@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         btnToast.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                MyToast("陈浩是个大坏蛋！", 1100);
+                MyToast("大坏蛋！", 1100);
             }
         });
     }
